@@ -1,5 +1,3 @@
-<br>
-
 ### 🛠 Tech Stack
 
 **Backend**
