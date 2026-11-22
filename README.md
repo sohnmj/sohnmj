@@ -1,4 +1,4 @@
-### 🛠 Tech Stack
+###  Tech Stack
 
 **Backend**
 <br>
@@ -21,7 +21,7 @@
 
 <br>
 
-### 🏆 Awards & Certificates
+###  Awards & Certificates
 - 교내 프로그래밍 대회(SPC) 동상
 - SQLD
 - 한국사능력검정시험 [급수]
